@@ -1,3 +1,5 @@
+# MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation
+
 ## The image data will come soon...
 ## 📚 Data Format
 Our dataset includes images, narrative text, audio captions, and audio. We organize the data using JSON files, where each line represents a data sample. 

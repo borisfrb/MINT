@@ -17,7 +17,11 @@ speaking and duck calls being blown",
 
 "image": "97151.png",
 
-"narrative_text": "As I make my way along the winding path, I come across a loving couple, their gentle conversation a warm and intimate accompaniment to the natural soundscape. The adult female's voice is soft and melodious, while the adult male's is deep and soothing. Their words are lost in the distance, but the love and contentment in their tone is palpable. Suddenly, a duck call pierces the air, followed by a chorus of quacks and honks from the ducks in the water. The sounds blend together in perfect harmony, a beautiful tapestry of sound that envelops me in its serenity."}
+"narrative_text": "As I make my way along the winding path, I come across a loving couple, their gentle conversation
+a warm and intimate accompaniment to the natural soundscape. The adult female's voice is soft and melodious, while
+the adult male's is deep and soothing. Their words are lost in the distance, but the love and contentment in their
+tone is palpable. Suddenly, a duck call pierces the air, followed by a chorus of quacks and honks from the ducks in
+the water. The sounds blend together in perfect harmony, a beautiful tapestry of sound that envelops me in its serenity."}
 ```
 ## :warning:  Ethics Statement
 

@@ -1,5 +1,5 @@
 ## The image data will come soon...
-## Data Format
+## 😃 Data Format
 Our dataset includes images, narrative text, audio captions, and audio. We organize the data using JSON files, where each line represents a data sample. 
 You can use the [yt-dlp](https://github.com/yt-dlp/yt-dlp) to get audio files using the provided **youtube\_id** and **audio\_start\_time**. Note that when using the yt-dlp tool to fetch audio files, ensure that the duration for fetching audio is set to **10 seconds**, as specified by AudioSet and AudioCaps. For images, we provide their indices in the JSON file. The actual images can be downloaded from Zenodo.
 

@@ -25,7 +25,7 @@ tone is palpable. Suddenly, a duck call pierces the air, followed by a chorus of
 the water. The sounds blend together in perfect harmony, a beautiful tapestry of sound that envelops me in its serenity."}
 ```
 ## 🔗 Image Data
-Image data can be obtained from Zenodo. [Link](https://zenodo.org/records/116067250)
+Image data can be obtained from Zenodo. [Link](https://zenodo.org/records/11606725)
 ## ⚠️  Ethics Statement
 **The MINT dataset is licensed under CC BY-NC-SA-4.0 license.**
 

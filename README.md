@@ -30,3 +30,14 @@ Image data can be obtained from Zenodo. [Link](https://zenodo.org/records/116067
 **The MINT dataset is licensed under CC BY-NC-SA-4.0 license.**
 
 The access to this MINT dataset is limited to academic institutions and is for research purposes only. We include frames extracted from each YouTube video as images in the dataset and ensure that these images do not adversely affect the copyright owner's ability to generate revenue from their original content, thereby complying with YouTube's fair use policy. If any copyright owner believes their rights have been infringed, we commit to promptly removing the disputed materials from our dataset.
+
+## 📝 Citation
+If you find our dataset or countermeasure is useful to your research, please cite it as follows:
+```
+@article{fu2024mint,
+  title={MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation},
+  author={Ruibo Fu and Shuchen Shi and Hongming Guo and Tao Wang and Chunyu Qiang and Zhengqi Wen and Jianhua Tao and Xin Qi and Yi Lu and Xiaopeng Wang and Zhiyong Wang and Yukun Liu and Xuefei Liu and Shuai Zhang and Guanjun Li},
+  journal={arXiv preprint arXiv:2406.10591},
+  year={2024}
+}
+```
